@@ -12,9 +12,9 @@ A real-time hand tracking project using [MediaPipe](https://google.github.io/med
 
 ## 📸 Demo
 
-> _(Insert a GIF or link to video demo if available)_  
-> Example:
-> ![Demo](docs/hand_tracking_demo.gif)
+
+> ![Demo](https://raw.githubusercontent.com/quanzz123/HandTrackingComputerVision/master/HandTrackingProject/Note/demo.png)
+
 
 ## 🛠️ Tech Stack
 
